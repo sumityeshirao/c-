@@ -1,0 +1,18 @@
+using System;
+namespace w
+{
+class 12
+{
+static void Mian()
+{
+int num,1=1;
+Console.Writeline("enter the nuber that you want to print in series");
+num=Convert.ToInt32(Console.radline()0;
+While (i<=num)
+{
+Console.Writeline("hello this is c #.framework");
+i++;
+}
+}
+}
+}
