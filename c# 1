@@ -1,0 +1,18 @@
+using system;
+namespace line
+{
+class om
+{
+static void   Main()
+
+{
+int num,i;
+Console.Writeline("enter the number");
+num=Convert.ToInt32 (Console.readline ()0;
+for (i=1,i<=num;i++0
+{
+Console.Writeline('teachone ,each one , tree one ',+num);
+}
+}
+}
+}
